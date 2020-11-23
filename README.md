@@ -7,7 +7,7 @@ Este repositório é exclusivamente voltado a empresa Tecsus, ao fornecimento do
 
 ## :pushpin: Observações
 * No link do drive disponibilizado abaixo, estará disponível o executável do programa e a documentação.
-* Recomenda-se a leitura da documentação, antes da execução do software.<\br>
+* Recomenda-se a leitura da documentação, antes da execução do software.
 * Também estarão disponíveis (Software + Documentação) para serem clonados via GitBash, conforme a documentação irá instruir.
 
 ## :cloud: Driver
