@@ -6,7 +6,7 @@
 Este repositório é exclusivamente voltado a empresa Tecsus, ao fornecimento do programa ART (Account Registration Trinity), junto da sua documentação (incluídos manual de usuário, migração e de instalação), além dos requisitos funcionais necessários para execução o software.
 
 ## :pushpin: Observações
-* No link do drive disponibilizado abaixo, estará disponível o executável do programa e a documentação.<\br>
+* No link do drive disponibilizado abaixo, estará disponível o executável do programa e a documentação.
 * Recomenda-se a leitura da documentação, antes da execução do software.<\br>
 * Também estarão disponíveis (Software + Documentação) para serem clonados via GitBash, conforme a documentação irá instruir.
 
